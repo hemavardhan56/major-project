@@ -1,0 +1,2 @@
+python VMMonitor.py
+pause
